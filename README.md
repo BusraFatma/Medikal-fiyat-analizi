@@ -1,4 +1,4 @@
-# Medikal-fiyat-analizi
+# Medical Price Analysis
 * We carried out a medical price analysis project with my group as part of the Global AI Hub - '22 Summer Camp.
 
 # Kullanılan Veri Seti
